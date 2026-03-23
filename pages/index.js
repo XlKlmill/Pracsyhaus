@@ -1,3 +1,4 @@
+export const config = { runtime: "edge" };
 export default function Home() {
   return (
     <div style={{ padding: 40 }}>
